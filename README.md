@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hey, I'm Jan Motlík!</h1>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=janmotlik&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=janmotlik&theme=shadow_blue&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janmotlik&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false">
+</div>
 
 <div align="center">
   <h2>Techs I use</h2>
